@@ -8,7 +8,10 @@
 </head>
 <body>
         <?php
-        phpinfo();
+        /*phpinfo();*/
+        echo "Tomorrow I'll learn PHP global variables \n<br>";
+        print "This is a bad command : del c:\\*.*";
+
         ?>
 </body>
 </html>
