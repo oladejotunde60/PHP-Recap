@@ -30,6 +30,7 @@
             if ($this->lang == 'yr') return 'O dabo';
             if ($this->lang == 'hs') return 'Se an juma';
             if ($this->lang == 'ig') return 'Kemesia';
+            return "goodbye"
         }
     }
 
